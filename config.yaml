@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: "Toha"
+title: "kyocoolcool"
 theme: "toha"
 
 # Allow raw html in markdown file
@@ -21,4 +21,4 @@ enableEmoji: true
 # Custom parameters
 params:
   # Github Repo URL. This is used to add "Improve This Page" button
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://java-table-template.com/hossainemruz/toha-example-site

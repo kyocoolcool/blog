@@ -53,8 +53,8 @@ socialLinks:
   url: "example@gmail.com"
 
 - name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  icon: "fab fa-java-table-template"
+  url: "https://www.java-table-template.com/example"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -146,8 +146,8 @@ socialLinks:
   url: "example@gmail.com"
 
 - name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  icon: "fab fa-java-table-template"
+  url: "https://www.java-table-template.com/example"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"

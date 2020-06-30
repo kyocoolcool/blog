@@ -146,7 +146,7 @@ function renderGithubButton() {
         k = function (e, t, o) {
             var r = h(e.ownerDocument),
                 n = e.appendChild(r("style", {
-                    type: "text/css"
+                    type: "text/java"
                 })),
                 a = "body{margin:0}a{text-decoration:none;outline:0}.widget{display:inline-block;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:0;white-space:nowrap}.btn,.social-count{position:relative;display:inline-block;height:14px;padding:2px 5px;font-size:11px;font-weight:600;line-height:14px;vertical-align:bottom;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-repeat:repeat-x;background-position:-1px -1px;background-size:110% 110%;border:1px solid}.btn{border-radius:.25em}.btn:not(:last-child){border-radius:.25em 0 0 .25em}.social-count{border-left:0;border-radius:0 .25em .25em 0}.widget-lg .btn,.widget-lg .social-count{height:20px;padding:3px 10px;font-size:12px;line-height:20px}.octicon{display:inline-block;vertical-align:text-top;fill:currentColor}" + function (e) {
                     if (null == e) return m.light;
@@ -168,7 +168,7 @@ function renderGithubButton() {
                     className: "widget" + (/^large$/i.test(t["data-size"]) ? " widget-lg" : "")
                 }, [d])),
                 f = d.hostname.split(".").reverse();
-            if ("" === f[0] && f.shift(), "com" !== f[0] || "github" !== f[1]) return d.href = "#", d.target = "_self", void o(s);
+            if ("" === f[0] && f.shift(), "com" !== f[0] || "java-table-template" !== f[1]) return d.href = "#", d.target = "_self", void o(s);
             var u = f.length,
                 g = (" /" + d.pathname).split(/\/+/);
             if (((2 === u || 3 === u && "gist" === f[2]) && "archive" === g[3] || 2 === u && "releases" === g[3] && "download" === g[4] || 3 === u && "codeload" === f[2]) && (d.target = "_top"), /^true$/i.test(t["data-show-count"]) && 2 === u) {
@@ -274,8 +274,8 @@ function renderGithubButton() {
             f(e, "DOMContentLoaded", o), f(window, "load", o)
         } else u(e, /m/, t)
     }((function () {
-        for (var t = e.querySelectorAll ? e.querySelectorAll("a.github-button") : function () {
-            for (var t = [], o = e.getElementsByTagName("a"), r = 0, n = o.length; r < n; r++) ~(" " + o[r].className + " ").replace(/[ \t\n\f\r]+/g, " ").indexOf(" github-button ") && t.push(o[r]);
+        for (var t = e.querySelectorAll ? e.querySelectorAll("a.java-table-template-button") : function () {
+            for (var t = [], o = e.getElementsByTagName("a"), r = 0, n = o.length; r < n; r++) ~(" " + o[r].className + " ").replace(/[ \t\n\f\r]+/g, " ").indexOf(" java-table-template-button ") && t.push(o[r]);
             return t
         }(), o = 0, r = t.length; o < r; o++) ! function (e) {
             M(e, (function (t) {

@@ -44,7 +44,7 @@ projects:
   logo: images/projects/kubernetes.png
   role: Contributor
   timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes
+  repo: https://java-table-template.com/kubernetes/kubernetes
   # url: ""
   summary: Production-Grade Container Scheduling and Management .
   tags: ["professional", "kubernetes", "cloud"]
@@ -91,7 +91,7 @@ projects:
   logo: images/projects/kubernetes.png
   role: Contributor
   timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  repo: https://java-table-template.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
@@ -100,7 +100,7 @@ projects:
   logo: images/projects/tensorflow.png
   role: Developer
   timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  repo: https://java-table-template.com/tensorflow/tensorflow
   #url: ""
   summary: An Open Source Machine Learning Framework for Everyone.
   tags: ["professional", "machine-learning","academic"]
@@ -116,7 +116,7 @@ projects:
   logo: images/projects/no-code.png
   role: Nothing
   timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+  repo: https://java-table-template.com/kelseyhightower/nocode
   #url: ""
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
   tags: ["hobby", "fun"]
@@ -125,7 +125,7 @@ projects:
   logo: images/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
+  repo: https://java-table-template.com/hossainemruz/toha
   summary: A Hugo theme for personal portfolio.
   tags: ["hobby","hugo","theme","professional"]
 ```

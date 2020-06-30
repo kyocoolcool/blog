@@ -127,16 +127,16 @@ var projectCards;
     }
 
     function showGithubStars() {
-      // fix the github button class
-      // we had set it to github-button-inactive in projects holder cards so that respective javascript
+      // fix the java-table-template button class
+      // we had set it to java-table-template-button-inactive in projects holder cards so that respective javascript
       // don't render it and replace respective span with shadow root
-      let githubButtons = document.getElementsByClassName("github-button-inactive");
+      let githubButtons = document.getElementsByClassName("java-table-template-button-inactive");
       while (githubButtons.length > 0) {
         if (githubButtons[0].classList != undefined) {
-          githubButtons[0].classList.replace("github-button-inactive", "github-button");
+          githubButtons[0].classList.replace("java-table-template-button-inactive", "java-table-template-button");
         }
       }
-      // now render github button. it will call the github API and fill the respective fields
+      // now render java-table-template button. it will call the java-table-template API and fill the respective fields
       renderGithubButton();
     }
     showGithubStars();
