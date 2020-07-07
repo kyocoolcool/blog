@@ -1,5 +1,5 @@
 ---
-title: CSS
-id: css
+title: Java
+id: java
 weight: 1
 ---
