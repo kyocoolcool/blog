@@ -93,8 +93,8 @@ Now, let's add your strength indicator on various soft skills such as leadership
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green
 softSkills:
-- name: Leadership
-  percentage: 85
+- name: Problem Solving
+  percentage: 95
   color: blue
 - name: Team Work
   percentage: 90
@@ -103,7 +103,7 @@ softSkills:
   percentage: 85
   color: pink
 - name: Hard Working
-  percentage: 85
+  percentage: 90
   color: green
 ```
 
@@ -133,7 +133,7 @@ company:
   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
