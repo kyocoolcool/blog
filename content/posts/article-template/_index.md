@@ -1,5 +1,5 @@
 ---
 title: Article Template
 id: article-template
-weight: 8
+weight: 5
 ---

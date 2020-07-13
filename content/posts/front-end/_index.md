@@ -1,5 +1,5 @@
 ---
 title: Front End
 id: front-end
-weight: 10
+weight: 2
 ---

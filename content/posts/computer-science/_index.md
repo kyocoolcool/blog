@@ -1,5 +1,5 @@
 ---
 title: Computer Science
 id: computer-science
-weight: 12
+weight: 3
 ---
