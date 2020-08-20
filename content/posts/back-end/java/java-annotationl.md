@@ -27,7 +27,7 @@ Java Annotation 是JDK5.0引入的一種注釋機制，可以當成是標籤，�
 ## 3、預置註解
 
 - @Deprecated
-- ＠Override
+- @Override
 - @SuppressWarnings
 - @SafeVarargs
 - @FunctionalInterface
