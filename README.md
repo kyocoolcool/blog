@@ -1,0 +1,47 @@
+書籍清單
+- [x] Offer來了 Java面試核心知識點精講
+- [x] 輕量級Java EE企業應用實戰（第四版）--Struts 2+Spring 4+Hibernate整合
+- [x] 深入淺出Servlets與JSP
+- [x] Java 7 教學手冊 (第五版)
+- [x] Oracle Certified Associate Java SE 8 Programmer I
+- [x] Oracle Certified Professional Java SE 8 Programmer II
+- [x] OCA / OCP Java SE 7 (猛虎出柙雙劍合璧版)
+- [x] Spring實戰（第四版）![Spring實戰](assets/markdown-img-paste-20200401103407571.png)
+- [ ] spring boot pdf
+- [ ] clean code
+- [] RabbitMQ
+- [ ] 作業系統
+- [ ] 網際網路
+- [ ] 數據結構
+- [ ] 密碼學
+
+視頻
+- [x] Angular基礎
+- [x] Angular實戰
+- [x] React基礎
+- [x] React and springboot
+- [x] Java8
+- [x] spring cloud
+- [x] spring data
+- [x] spring security
+- [x] docker
+- [ ] kubertenes
+- [x] java范型
+- [x] java concurrent & lock
+- [x] java rpc
+- [x] ssl & tls
+- [x] tcp & udp
+- [x] IDEA使用操作
+- [x] 密碼學
+- [ ] jasperreport
+- [x] jenkins
+- [x] annotation
+- [x] typescript
+- [x] springboot 原理
+- [x] Cookie & Session
+- [x] Mongo DB 基礎入門
+- [ ] JVM
+- [ ] Hardoop
+- [ ] ELK
+- [ ] Redis
+
