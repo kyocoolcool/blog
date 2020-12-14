@@ -1,6 +1,15 @@
 # 學習清單
+## TODO LIST
+- [ ] Side project: Angular + Spring Boot + ElasticSearch
+
+
 ## 程式書籍清單
-- [x] Offer來了 Java面試核心知識點精講(實體書)
+書名           | 封面  | 閱讀狀態 |
+--------------|:-----:|-----:|
+Offer來了 Java面試核心知識點精講| ![Alt text](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/offer-comming2.jpg) |  ✔️ |
+
+
+- [x] Offer來了 Java面試核心知識點精講(實體書) ![Alt text](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/blog/20200708/20200708-post-1.png)
 - [x] 輕量級Java EE企業應用實戰（4th Edition）--Struts 2+Spring 4+Hibernate整合(實體書)
 - [x] 深入淺出Servlets與JSP(實體書)
 - [x] Java 7 教學手冊 (5th Edition)(實體書)
