@@ -22,7 +22,7 @@ RPC(Remote Procedure Call)，是一種概念，在分佈式計算系統，不同
 
 ## 3、RPC實作方式
 
-![OCAJP](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/blog/20201220/20200708-post-1.png)
+![OCAJP](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/blog/20201220/20201220-post.png)
 
 ## 4、RPC序列化框架
 - java.io.serializable
