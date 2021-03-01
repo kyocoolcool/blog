@@ -46,10 +46,9 @@ Status description:
 ![修改軟件的藝術](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/edit-software.jpg)  |  修改軟件的藝術  |  程式開發  |  📗  |
 ![軟技能](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/soft-skill.jpg)  |  軟技能：代碼之外的生存指南  |  程式開發  |  📗  |
 ![程式員修煉之道](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/engineer-way.jpg)  |  程式員修煉之道：通向務實的最高境界 (2nd Edition)  |  程式開發  |  📗  |
-![Spring Security in action](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/spring-in-atction.jpg)  |  Spring Security in action  |  程式開發  |  📗  |
-![Spring in action](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/spring-security-in-action.jpg)  |  Spring in action (6th Edition)  |  程式開發  |  📖  |
-Spring Security in action  |  程式開發  |  📖  |
-![微服務設計模式](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/micro-service-pattern.jpg)  |  微服務設計模式  |  程式開發  |  📗  |
+![Spring Security in action](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/spring-security-in-action.png)  |  Spring Security in action  |  程式開發  |  📗  |
+![Spring in action](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/spring-in-atction.png)  |  Spring in action (6th Edition)  |  程式開發  |  📖  |
+![微服務設計模式](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/micro-service-pattern.png)  |  微服務設計模式  |  程式開發  |  📗  |
 
 
 ## Program Video List
