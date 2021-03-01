@@ -46,6 +46,11 @@ Status description:
 ![修改軟件的藝術](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/edit-software.jpg)  |  修改軟件的藝術  |  程式開發  |  📗  |
 ![軟技能](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/soft-skill.jpg)  |  軟技能：代碼之外的生存指南  |  程式開發  |  📗  |
 ![程式員修煉之道](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/engineer-way.jpg)  |  程式員修煉之道：通向務實的最高境界 (2nd Edition)  |  程式開發  |  📗  |
+![Spring Security in action](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/spring-in-atction.jpg)  |  Spring Security in action  |  程式開發  |  📗  |
+![Spring in action](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/spring-security-in-action.jpg)  |  Spring in action (6th Edition)  |  程式開發  |  📖  |
+Spring Security in action  |  程式開發  |  📖  |
+![微服務設計模式](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/micro-service-pattern.jpg)  |  微服務設計模式  |  程式開發  |  📗  |
+
 
 ## Program Video List
 主題 | 類型 | 閱讀狀態 |
@@ -84,10 +89,15 @@ Status description:
 [Hadoop](https://www.bilibili.com/video/BV1cW411r7c5)  |  程式工具  |  📗  |
 [ELK完整教學](https://www.bilibili.com/video/BV17a4y1x7zq)  |  程式工具  |  📚  |
 [Redis入門概述](https://www.bilibili.com/video/BV1eb41147Rg)  |  程式工具  |  📖  |
+[Spring security in OAuth 2.0](https://www.bilibili.com/video/BV1Kt4y1i7nk)  |  程式語言  |  📖  |
+[Spring security fundamentals](https://www.udemy.com/course/spring-security-fundamentals)  |  程式語言  |  📖  |
+[Netty 馬士兵](https://www.bilibili.com/video/BV1nX4y1N7U7?t=516)  |  程式語言  |  📖  |
+[Java虛擬機 宋紅康](https://www.bilibili.com/video/BV1PJ411n7xZ)  |  程式語言  |  📖  |
+[Spring Boot 原碼分析](https://www.bilibili.com/video/BV1mJ411m7N3)  |  程式語言  |  📖  |
+
 
 ## Other Book List
 
 封面 | 書名 | 類型  | 閱讀狀態 |
 -----|:-----:|-----:|-----:|
 ![讓你的時間更有價值](https://raw.githubusercontent.com/kyocoolcool/blog/master/static/images/cover/time.jpg)  |  讓你的時間更有價值：空閑時間就是你的未來財富  |  時間管理  |  📗  |
-
